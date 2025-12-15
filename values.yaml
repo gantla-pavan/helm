@@ -1,5 +1,5 @@
 deployment:
-replicas: 2
+replicas: 5
 imageVersion: latest
 service:
   type: loadbalancer
